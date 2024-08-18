@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student Details</string>
+    <string name="add_student">Add Student</string>
+    <string name="view_students">View Students</string>
+</resources>
